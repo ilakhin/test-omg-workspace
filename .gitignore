@@ -1,1 +1,16 @@
+/TestOmg/.idea/
+/TestOmg/.utmp/
+/TestOmg/.vs/
+/TestOmg/.vscode/
+/TestOmg/Assets/AddressableAssetsData/link.xml
+/TestOmg/Assets/AddressableAssetsData/link.xml.meta
+/TestOmg/Library/
+/TestOmg/MemoryCaptures/
+/TestOmg/Logs/
+/TestOmg/obj/
+/TestOmg/Temp/
+/TestOmg/UserSettings/
+/TestOmg/*.csproj
+/TestOmg/*.sln
+/TestOmg/*.user
 *.DS_Store
